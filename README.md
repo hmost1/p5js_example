@@ -24,5 +24,6 @@ cd p5js_example
 python -m SimpleHTTPServer 
 
 browse to localhost:8000 
+
 (This will cache the 3rd parties so we can use without wifi next time, 
 I don't think a local filesystem lookup will do that)
