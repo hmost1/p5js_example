@@ -16,8 +16,11 @@ all 3rd party libraries from a cdn. The page will not work
 without caching or wifi. 
 
 To run: 
+
 git clone <this repo> 
+	
 cd p5js_example
+
 python -m SimpleHTTPServer 
 
 browse to localhost:8000 
